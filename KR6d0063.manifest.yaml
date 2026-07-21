@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0063_000.yaml, hash: 'sha256:fb30955afdc7cb1e7d45dc7a9cb43baa368829cf943fc550ca42fa3925eab8d5'}
+  - {seq: 0, filename: KR6d0063_000.yaml, hash: 'sha256:d5e82f7903ae7c5c8202477622f0787b740bc5b6a6644bd9931467301d44c899'}
   - {seq: 1, filename: KR6d0063_001.yaml, hash: 'sha256:f1e57f6b39c93b5c661f7820f28fd211d80b10a4eca6b3cadb61fa465f26bab8'}
   - {seq: 2, filename: KR6d0063_002.yaml, hash: 'sha256:a113a4e24b9964780cf08479f411ac2ed1335312015b03d5d9d12e2c2b51cd4c'}
   - {seq: 3, filename: KR6d0063_003.yaml, hash: 'sha256:a73f8eb906cda47dcba302f7fec24360016f5912100461540d5f45183bc53b5a'}
@@ -37,7 +37,7 @@ assets:
   - {seq: 13, filename: KR6d0063_013.yaml, hash: 'sha256:066b90c49f977d712cc4e69f0d37effc1faeea023b6c702e6ec792908885d17f'}
   - {seq: 14, filename: KR6d0063_014.yaml, hash: 'sha256:8f7ebfe487028e2e2cd598d56733dc8cbaba9d11b7998cff0759aada8b37b50f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0063_000.markers.yaml, hash: 'sha256:3106da88dabdf3ee9627ea7c0d3979f5e3c2660a0f4b47b9fd14a8a92891c039'}
+  - {seq: 0, role: markers, filename: assets/KR6d0063_000.markers.yaml, hash: 'sha256:666c754fd0f213e7753506f1e333d6815d6c695143d49981021b54450db77f77'}
   - {seq: 1, role: markers, filename: assets/KR6d0063_001.markers.yaml, hash: 'sha256:8af8f0fcd7634e46e43c3a8a79ee0b69fc60e66da3de20ca5678c9cde4a46ab4'}
   - {seq: 2, role: markers, filename: assets/KR6d0063_002.markers.yaml, hash: 'sha256:e527f4eac23d3430a0b018387a5fd461b40f28c9ee3b528a42a8221b44c0ab66'}
   - {seq: 3, role: markers, filename: assets/KR6d0063_003.markers.yaml, hash: 'sha256:901021f091b3a65a37e59ed5e76f86c95c6b43283419228c4e35c88fd9706c9e'}
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0063_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 586-A 天台三大部補注序
@@ -67,7 +67,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0063_X_000-mulu-2
     span:
-    - front
+    - body
     - 666
     - 666
   label: 條箇
@@ -77,7 +77,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0063_X_000-mulu-3
     span:
-    - front
+    - body
     - 673
     - 673
   label: 卷上
@@ -87,7 +87,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0063_X_000-mulu-4
     span:
-    - front
+    - body
     - 684
     - 684
   label: 第一卷
@@ -97,7 +97,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0063_X_000-mulu-5
     span:
-    - front
+    - body
     - 1409
     - 1409
   label: 第二卷
@@ -107,7 +107,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0063_X_000-mulu-6
     span:
-    - front
+    - body
     - 2029
     - 2029
   label: 第三卷
@@ -117,7 +117,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0063_X_000-mulu-7
     span:
-    - front
+    - body
     - 2564
     - 2564
   label: 第四卷
@@ -127,7 +127,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0063_X_000-mulu-8
     span:
-    - front
+    - body
     - 3272
     - 3272
   label: 第五卷
@@ -137,7 +137,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0063_X_000-mulu-9
     span:
-    - front
+    - body
     - 4069
     - 4069
   label: 卷下
@@ -147,7 +147,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0063_X_000-mulu-10
     span:
-    - front
+    - body
     - 4080
     - 4080
   label: 第六卷
@@ -157,7 +157,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0063_X_000-mulu-11
     span:
-    - front
+    - body
     - 4742
     - 4742
   label: 第七卷
@@ -167,7 +167,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0063_X_000-mulu-12
     span:
-    - front
+    - body
     - 5279
     - 5279
   label: 第八卷
@@ -177,7 +177,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0063_X_000-mulu-13
     span:
-    - front
+    - body
     - 5711
     - 5711
   label: 第九卷
@@ -187,7 +187,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0063_X_000-mulu-14
     span:
-    - front
+    - body
     - 6045
     - 6045
   label: 第十卷
@@ -197,7 +197,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0063_X_000-mulu-15
     span:
-    - front
+    - body
     - 6299
     - 6299
   label: 第十一卷
@@ -207,7 +207,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0063_X_000-mulu-16
     span:
-    - front
+    - body
     - 6803
     - 6803
   label: 第十二卷
@@ -217,7 +217,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0063_X_000-mulu-17
     span:
-    - front
+    - body
     - 7161
     - 7161
   label: 第十三卷
@@ -227,7 +227,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0063_X_000-mulu-18
     span:
-    - front
+    - body
     - 7438
     - 7438
   label: 第十四卷
@@ -413,7 +413,7 @@ table_of_contents:
   label: No. 586-B
   type: mulu
   level: 1
-hash: sha256:2b93937f7de981ed489dc93af56b34157b517ce69dd1a8b13ae4896eb3fb9c1a
+hash: sha256:f86d07b718c7381fe2b991e78b84478739a331fc530f86df1e02108783a9cb37
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
